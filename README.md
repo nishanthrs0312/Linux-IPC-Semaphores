@@ -1,7 +1,7 @@
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
 
-## Name : Nisahnth R S
+## Name : Nishanth R S
 ## Reg No:21224040223
 
 # AIM:
